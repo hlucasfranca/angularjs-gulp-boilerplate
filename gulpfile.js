@@ -1,5 +1,7 @@
 'use strict';
 
+
+
 //Gulp files.
 require('./gulp/development');
 require('./gulp/production');
@@ -9,3 +11,8 @@ require('./gulp/style');
 require('./gulp/vendor');
 require('./gulp/documentation');
 require('./gulp/jshint');
+require('./gulp/watch');
+
+
+
+
